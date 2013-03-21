@@ -1,0 +1,150 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1250" />
+	<meta http-equiv="pragma" content="no-cache" />
+	<meta http-equiv="cache-control" content="no-cache, no-store" />
+	<meta name="robots" content="noindex,nofollow" />
+	<meta name="googlebot" content="nosnippet,noarchive" />
+	<link rel="shortcut icon" href="/gfx/favicons/favicon.ico" />
+
+
+	<link rel="stylesheet" type="text/css" href="/ib/design/fio.css" />
+
+	<script type="text/javascript" src="/ib/libs/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="/ib/js/common.js"></script>
+	<script type="text/javascript" src="/ib/libs/datepick/jquery.datepick.js"></script>
+	<script type="text/javascript" src="/ib/libs/datepick/jquery.datepick-cs.js"></script>
+	<style type="text/css">
+	@import "/ib/libs/datepick/jquery.datepick.css";
+	</style>
+	<title>Kurzovní lístek</title>
+
+
+
+
+
+
+</head>
+<body id="layout-fluid"
+
+
+
+>
+
+	<div id="clear_page">
+
+<h2>Kurzovní lístek</h2>
+Kurz 'Nakupujeme' udává počet jednotek měny uvedené v měnovém páru jako druhé, které banka zaplatí za jednu jednotku měny uvedené v měnovém páru jako první.<br/>
+Kurz 'Prodáváme' udává počet jednotek měny uvedené v měnovém páru jako druhé, za který banka prodá jednu jednotku měny uvedené v měnovém páru jako první.<br/><br/>
+<table class='main'>
+<thead>
+ <tr>
+<th>Měnový pár</th>
+<th>Nakupujeme</th>
+<th>Prodáváme</th>
+ </tr>
+</thead>
+ <tbody>
+<tr class='even_row'>
+<td class='tc tb'>EUR/CZK <small>(21.03.2013 08:30:08)</small></td>
+<td class='tc'>25,2510</td>
+<td class='tc'>26,2380</td>
+
+</tr>
+<tr class='odd_row'>
+<td class='tc tb'>USD/CZK <small>(21.03.2013 08:30:08)</small></td>
+<td class='tc'>19,5030</td>
+<td class='tc'>20,2710</td>
+
+</tr>
+<tr class='even_row'>
+<td class='tc tb'>GBP/CZK <small>(21.03.2013 08:30:08)</small></td>
+<td class='tc'>29,4800</td>
+<td class='tc'>30,6410</td>
+
+</tr>
+<tr class='odd_row'>
+<td class='tc tb'>HUF/CZK <small>(21.03.2013 08:30:08)</small></td>
+<td class='tc'>0,0827</td>
+<td class='tc'>0,0861</td>
+
+</tr>
+<tr class='even_row'>
+<td class='tc tb'>PLN/CZK <small>(21.03.2013 08:30:08)</small></td>
+<td class='tc'>6,0430</td>
+<td class='tc'>6,2890</td>
+
+</tr>
+<tr class='odd_row'>
+<td class='tc tb'>EUR/USD <small>(21.03.2013 08:30:08)</small></td>
+<td class='tc'>1,2532</td>
+<td class='tc'>1,3241</td>
+
+</tr>
+<tr class='even_row'>
+<td class='tc tb'>EUR/GBP <small>(21.03.2013 08:30:08)</small></td>
+<td class='tc'>0,8305</td>
+<td class='tc'>0,8775</td>
+
+</tr>
+<tr class='odd_row'>
+<td class='tc tb'>EUR/HUF <small>(21.03.2013 08:30:08)</small></td>
+<td class='tc'>297,4533</td>
+<td class='tc'>314,2759</td>
+
+</tr>
+<tr class='even_row'>
+<td class='tc tb'>EUR/PLN <small>(21.03.2013 08:30:08)</small></td>
+<td class='tc'>4,0527</td>
+<td class='tc'>4,2819</td>
+
+</tr>
+<tr class='odd_row'>
+<td class='tc tb'>GBP/USD <small>(21.03.2013 08:30:08)</small></td>
+<td class='tc'>1,4685</td>
+<td class='tc'>1,5515</td>
+
+</tr>
+<tr class='even_row'>
+<td class='tc tb'>USD/HUF <small>(21.03.2013 08:30:08)</small></td>
+<td class='tc'>231,0009</td>
+<td class='tc'>244,0652</td>
+
+</tr>
+<tr class='odd_row'>
+<td class='tc tb'>USD/PLN <small>(21.03.2013 08:30:08)</small></td>
+<td class='tc'>3,1473</td>
+<td class='tc'>3,3253</td>
+
+</tr>
+<tr class='even_row'>
+<td class='tc tb'>GBP/HUF <small>(21.03.2013 08:30:08)</small></td>
+<td class='tc'>348,5485</td>
+<td class='tc'>368,2608</td>
+
+</tr>
+<tr class='odd_row'>
+<td class='tc tb'>GBP/PLN <small>(21.03.2013 08:30:08)</small></td>
+<td class='tc'>4,7489</td>
+<td class='tc'>5,0174</td>
+
+</tr>
+<tr class='even_row'>
+<td class='tc tb'>PLN/HUF <small>(21.03.2013 08:30:08)</small></td>
+<td class='tc'>71,4362</td>
+<td class='tc'>75,4763</td>
+
+</tr>
+ </tbody>
+</table>
+<form method='get' action=''><div class='tc'>Ke dni:&nbsp;<input class='text DatePick' type='text' name='DAT_ke_dni' size='10' value='21.3.2013' />
+<input class='submit1' type='submit' value='Odeslat' /></div>
+</form>
+	</div> <!-- /.page -->
+
+</body>
+
+</html>
